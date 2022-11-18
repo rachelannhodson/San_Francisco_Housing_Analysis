@@ -36,15 +36,15 @@ Open your CLI terminal and type
 ```python
 jupyter lab
 ```
-then JupyterLab will automatically open in your browswer. Use the left side menu bar to search for the `san_francisco_housing.ipynb` file. Open this file. Then you can use the formaulas in the `.ipynb` file to analyze your CSV file(s) and .
+then JupyterLab will automatically open in your browswer. Use the left side menu bar to search for the `san_francisco_housing.ipynb` file. Open this file. Then you can use the formaulas in the `.ipynb` file to analyze your CSV file(s) and gather the informaiton you need to determine housing areas that will work best for you and your client.
 
-See an example of a Monte Carlo Simulation Plot here:
+See an example of a Line Plot showing the correlation between gross rent and home sale prices per square foot by neighborhood here:
 
-![](./plot.simulation.png/)
+![](./san_francisco_housing_image_1.png/)
 
-See an example of a Monte Carlo Distribution Plot here:
+See an example of a Geoview Plot showing the correlation between gross rent and home sale prices per square foot by neighborhood on a map here:
 
-![](./plot.distribution.png/)
+![](./san_francisco_housing_image_2.png/)
 
 ---
 

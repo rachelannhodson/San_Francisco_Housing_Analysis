@@ -1,12 +1,17 @@
-# San Francisco Housing HVPlots, Module 6 Challenge
+# San Francisco Housing Analysis
 
-This is a JupyterLab analysis. A data analyst can use this program to read CSV files then analyze the data. They will be able to find data by year and/or by neighborhood for the home sale prices per square foot, home sale amounts, and the gross rent cost per month. They can manipulate and plot this data to give them a good idea of what areas in San Francisco might be a good place to buy investment real estate, by to live, or seek to rent in.
+This is a JupyterLab analysis. A data analyst can use this program to read `.csv` files then analyze the data. They will be able to find data by year and/or by neighborhood for the home sale prices per square foot, home sale amounts, and the gross rent cost per month. They can manipulate and plot this data to give them a good idea of what areas in San Francisco might be a good place to buy investment real estate, by to live, or seek to rent in.
 
 ---
 
 ## Technologies
 
-This application was written in Python 3.9.12. This application is dependent on the [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), and [JupyterLab](https://jupyter.org/), [pyviz hvplot](https://hvplot.holoviz.org/), and [pyviz geoviews](https://geoviews.org/). 
+This application was written in Python 3.9.12. This application is dependent on the following libraries:
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [JupyterLab](https://jupyter.org/)
+* [pyviz hvplot](https://hvplot.holoviz.org/)
+* [pyviz geoviews](https://geoviews.org/). 
 
 ---
 
@@ -36,7 +41,7 @@ Open your CLI terminal and type
 ```python
 jupyter lab
 ```
-then JupyterLab will automatically open in your browswer. Use the left side menu bar to search for the `san_francisco_housing.ipynb` file. Open this file. Then you can use the formaulas in the `.ipynb` file to analyze your CSV file(s) and gather the informaiton you need to determine housing areas that will work best for you and your client.
+then JupyterLab will automatically open in your browswer. Use the left side menu bar to search for the `san_francisco_housing_analysis.ipynb` file. Open this file. Then you can use the formaulas in the `.ipynb` file to analyze your `.csv` file(s) and gather the informaiton you need to determine housing areas that will work best for you and your client.
 
 See an example of a Line Plot showing the correlation between gross rent and home sale prices per square foot by neighborhood here:
 
@@ -50,7 +55,7 @@ See an example of a Geoview Plot showing the correlation between gross rent and 
 
 ## Contributors
 
-Rachel Ann Hodson, rachelannhodson@gmail.com
+[Rachel Ann Hodson](https://www.linkedin.com/in/rachelannhodson/), rachelannhodson@gmail.com
 
 ---
 
